@@ -4,9 +4,8 @@ h1, footer{
 }
 
 .image-grid div {
-  display: grid;
-  grid-template: 180px 180px / 20vw 20vw;
+  display: inline-grid;
+  grid-template: 50px 50px / 50px 50px;
   background-image: url('https://www.burpee.com/dw/image/v2/ABAQ_PRD/on/demandware.static/-/Sites-masterCatalog_Burpee/default/dw6c95b38a/Images/Product%20Images/prod500138/prod500138.jpg?sw=320&sh=378&sm=fit');
   background-size: cover;
 }
- 
